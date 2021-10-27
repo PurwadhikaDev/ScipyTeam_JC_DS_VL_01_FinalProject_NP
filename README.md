@@ -68,7 +68,7 @@ Dataset yang ada meliputi `7043` pengamatan dengan `20` fitur dan 1 label (`Chur
 
 ### Ringkasan Exploratory Data Analysis (EDA)
 
-1. Terdapat pemasukan kotor sebesar $2.862.926,9 juta dollar AS yang hilang akibat pelanggan yang churn.
+1. Terdapat pemasukan kotor sebesar $2.862.926,9 dollar AS yang hilang akibat pelanggan yang churn.
 2. Gender: Hampir tidak ada perbedaan perbedaan persentase churn antara pria dan wanita.
 3. Senior Citizen: Persentase churn dalam kelompok senior citizen adalah 42%, ada indikasi churn yang tinggi pada kelompok ini.
 4. Partner dan Dependents: Kedua fitur memiliki korelasi dan berkontribusi besar dalam kecenderungan pelanggan untuk churn.
@@ -126,7 +126,7 @@ Namun, yang perlu diingat juga bahwa terdapat konsekuensi lain. Yakni dari 100 p
 
 ### Business Insight
 
-1. Terdapat pemasukan kotor sebesar $2.862.926,9 juta dollar AS yang hilang akibat pelanggan yang churn.
+1. Terdapat pemasukan kotor sebesar $2.862.926,9 dollar AS yang hilang akibat pelanggan yang churn.
 2. Perusahaan harus lebih memperhatikan:
     - Senior citizen, karena lebih berpotensi untuk churn.
     - Fiber optic, baik dari segi harga maupun kualitas. Karena ada indikasi dapat meningkatkan potensi pelanggan untuk churn.
